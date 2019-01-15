@@ -44,7 +44,7 @@ design_patterns
     - 传输对象模式（Transfer Object Pattern）
     
 ## 设计模式关系图：
-![设计模式关系图](/src/resources/images/设计模式关系图.jpg)
+![设计模式关系图](/src/main/resources/images/设计模式关系图.jpg)
 
 ## 设计模式的六大原则：
 1.开闭原则（Open Close Principle）
