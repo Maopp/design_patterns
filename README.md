@@ -433,3 +433,13 @@ AdapterPatternDemo演示类使用 AudioPlayer 类来播放各种格式。
 > 有一个作为桥接实现的 DrawAPI 接口和实现了 DrawAPI 接口的实体类 RedCircle、GreenCircle。Shape 是一个抽象类，将使用 DrawAPI 的对象。
 BridgePatternDemo演示类使用 Shape 类来画出不同颜色的圆。
 ![桥接模式实例](/src/main/resources/images/桥接模式实例.jpg)
+
+### 过滤器模式：
+> 过滤器模式（Filter Pattern）或标准模式（Criteria Pattern）是一种设计模式，这种模式允许开发人员使用不同的标准来过滤一组
+对象，通过逻辑运算以解耦的方式把它们连接起来。这种类型的设计模式属于结构型模式，它结合多个标准来获得单一标准。
+
+#### 介绍
+#### 实现
+> 创建一个 Person 对象、Criteria 接口和实现了该接口的实体类，来过滤 Person 对象的列表。CriteriaPatternDemo演示类使用 
+Criteria 对象，基于各种标准和它们的结合来过滤 Person 对象的列表。
+![过滤器模式实例](/src/main/resources/images/过滤器模式实例.jpg)
