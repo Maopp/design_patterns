@@ -1,0 +1,22 @@
+package com.catpp.design_patterns.service_locator_pattern.service.impl;
+
+import com.catpp.design_patterns.service_locator_pattern.service.Service;
+
+/**
+ * com.catpp.design_patterns.service_locator_pattern.service.impl
+ *
+ * @Author cat_pp
+ * @Date 2019/1/28
+ * @Description
+ */
+public class Service2 implements Service {
+    @Override
+    public String getName() {
+        return "Service2";
+    }
+
+    @Override
+    public void execute() {
+        System.out.println("Executing Service2");
+    }
+}
