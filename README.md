@@ -1,6 +1,17 @@
 # design_patterns
 design_patterns
 
+## 设计模式相关网站：
+[以一种非常通用的方式检查设计模式 - Wiki Page for Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern#Concurrency_patterns)
+[一篇关于设计模式的好文章 - Java Programming/Design Patterns](https://en.wikibooks.org/wiki/Java_Programming/Design_Patterns)
+[该 Java 教程是为那些想用 Java 编程语言创建应用程序的编程人员提供的实用指南 - The Java<sup>TM</sup> Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+[Java<sup>TM</sup> 2 SDK, Standard Edition 的官网 - Java<sup>TM</sup> 2 SDK, Standard Edition](https://docs.oracle.com/javase/1.4.2/docs/index.html)
+[菜鸟教程](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
+
+## Java设计模式书籍：
+- 大话设计模式
+- Head First 设计模式
+
 ## 设计模式的类型：
 > 总共有 23 种设计模式。这些模式可以分为三大类：创建型模式（Creational Patterns）、结构型模式（Structural Patterns）、
 行为型模式（Behavioral Patterns）
